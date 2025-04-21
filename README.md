@@ -55,29 +55,7 @@
     | Playlist Creation | Users should be able to create, manage, and share playlists. |
     | Payment Processing | Users should be able to subscribe to different tiers and pay for them automatically. |
     | Content Uploading (Admin) | Admins should be able to easily upload new content and populate the Music Catalog service database. |
-    - 3.1.1 User Registration
     
-    ![Captura de Tela 2025-04-20 às 21.18.40.png](attachment:e4f8f60d-38cd-455f-9075-a1f4868d8407:Captura_de_Tela_2025-04-20_as_21.18.40.png)
-    
-    - 3.1.2 Music Search
-    
-    ![Captura de Tela 2025-04-20 às 21.32.53.png](attachment:a99d531a-223e-4f5c-8ea1-a6436a57750b:Captura_de_Tela_2025-04-20_as_21.32.53.png)
-    
-    - 3.1.3 Audio Streaming
-    
-    ![Captura de Tela 2025-04-20 às 21.43.52.png](attachment:17688ba0-1024-4f20-8ef2-6470c35a9225:Captura_de_Tela_2025-04-20_as_21.43.52.png)
-    
-- 3.1.4 Playlist Creation
-
-![Captura de Tela 2025-04-20 às 21.45.58.png](attachment:a343ad39-6642-46fa-97ca-f72583fda84e:Captura_de_Tela_2025-04-20_as_21.45.58.png)
-
-- 3.1.5 Payment Processing
-
-![Captura de Tela 2025-04-20 às 21.49.15.png](attachment:f6a20ea8-eb16-4d8b-a72d-c401730e7d47:Captura_de_Tela_2025-04-20_as_21.49.15.png)
-
-- 3.1.6 Content Uploading (Admin)
-
-![Captura de Tela 2025-04-20 às 21.49.15.png](attachment:14b6f0e8-c706-4b8b-8b60-c7d11482df5e:Captura_de_Tela_2025-04-20_as_21.49.15.png)
 
 - **3.2 Non-Functional Requirements:**
     
