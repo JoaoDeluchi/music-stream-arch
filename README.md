@@ -105,14 +105,7 @@
 - **Maintainability:** Modular microservices architecture for easy maintenance and updates.
 - Adaptability: Able to handle additional services such as podcasts, radio etc.
 
-**5. Constraints**
-
-- **Budget:** [Define budget constraints].
-- **Timeline:** [Define timeline for development and deployment].
-- **Resources:** [Define available development resources].
-- **Security Compliance:** (Required) Adhere to industry best practices for security and data privacy (e.g., GDPR, HIPAA if applicable).
-
-**6. Future Considerations**
+**5. Future Considerations**
 
 - Personalized recommendations.
 - Offline playback.
